@@ -2,5 +2,6 @@
 x
 nekaj novega
 - ali to dela
-# Avtorji:
-- Ne obstajajo
+
+## Avtorji:
+- Luka Debev
