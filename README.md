@@ -5,3 +5,5 @@ nekaj novega
 
 ## Avtorji:
 - Luka Debev
+
+to so vsi avtorji
